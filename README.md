@@ -1,6 +1,6 @@
-### Hi there 👋
+
 # About
-i like coding, in spend my free time to learn programming & explore new techs.
+I like making Videogames and love trying new tech
 
 ## 💡 IDEs
 
@@ -29,7 +29,7 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 ## 💻 Programming Languages
 
 
-[![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://typescriptlang.org/)
+[![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com/)
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 
