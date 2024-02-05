@@ -5,7 +5,8 @@ I like making Videogames and love trying new tech
 ## 💡 IDEs & Game Engines
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Godot Engine](https://img.shields.io/badge/-Godot_Engine-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://code.visualstudio.com/)
+[![Godot Engine](https://img.shields.io/badge/-Godot_Engine-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+
 
 
 ## 💿 OS
